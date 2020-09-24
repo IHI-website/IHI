@@ -1,0 +1,175 @@
+
+
+
+// div{
+//     background-image: url('~src/assets/img/background2.png');
+    
+// }
+
+// *{box-sizing: border-box}
+
+// /* Full-width input fields */
+//   input[type=text], input[type=password] {
+//   width: 100%;
+//   padding: 15px;
+//   margin: 5px 0 22px 0;
+//   display: inline-block;
+//   border: none;
+//   background: #f1f1f1;
+// }
+
+// input[type=text]:focus, input[type=password]:focus {
+//   background-color: #ddd;
+//   outline: none;
+// }
+
+// hr {
+//   border: 1px solid #f1f1f1;
+//   margin-bottom: 25px;
+// }
+
+// /* Set a style for all buttons */
+// button {
+//   background-color: #4CAF50;
+//   color: white;
+//   padding: 14px 20px;
+//   margin: 8px 0;
+//   border: none;
+//   cursor: pointer;
+//   width: 100%;
+//   opacity: 0.9;
+// }
+
+// button:hover {
+//   opacity:1;
+// }
+
+// /* Extra styles for the cancel button */
+// .cancelbtn {
+//   padding: 14px 20px;
+//   background-color: #f44336;
+// }
+
+// /* Float cancel and signup buttons and add an equal width */
+// .cancelbtn, .signupbtn {
+//   float: left;
+//   width: 50%;
+// }
+
+// /* Add padding to container elements */
+// .container {
+//   padding: 16px;
+// }
+
+// /* Clear floats */
+// .clearfix::after {
+//   content: "";
+//   clear: both;
+//   display: table;
+// }
+
+// /* Change styles for cancel button and signup button on extra small screens */
+// @media screen and (max-width: 300px) {
+//   .cancelbtn, .signupbtn {
+//     width: 100%;
+//   }
+// }
+
+
+// @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap') repeat scroll 0 0 rgba(0, 0, 0 , 0);
+
+body {
+  background: #fff;
+}
+
+
+//ישן
+
+//בדיקה
+// .clouds{
+//   // width: 100%;
+//   // height: 400px;
+//   background: url("~src/assets/img/conection.png");
+//   color: #eee;
+//   width: 100%;
+//   height: 100vh;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   perspective: 1000px;
+//   perspective-origin: 50% 50%;
+//   animation: animation 100s linear infinite;
+// }
+
+// @keyframes animation {
+//    100%{
+//     background-position:0px -3000px;
+//   }
+// }
+
+// .waite{
+//     position: relative;
+//     border: 2px solid green;
+//     height: 120px;
+//     background: #ddd;
+//  }
+ 
+
+// .form-group{
+// size: 70%;
+// }
+// img {
+//   border: 1px solid rgb(0, 0, 0);
+//   background-image:url('~src/assets/img/conection.png'); ;
+//   border-radius: 4px;
+//   padding: 5%;
+
+// }
+
+// img:hover {
+//   box-shadow: 0 0 2px 1px rgba(247, 245, 245, 0.5);
+// }
+
+// .man{
+//   margin-left: 120%;
+// flood-opacity: 0.5;
+// }
+
+
+.cloouds{
+  background-image: url('~src/assets/img/conection.png');
+  size: 100%;
+}
+.waite{
+    position: relative;
+    height:20%;
+    width: 50%;
+   margin-right: 25%;
+    background:white;
+ }
+ 
+
+.form-group{
+size: 70%;
+}
+img {
+  border: 1px solid rgb(0, 0, 0);
+  background-image:url('~src/assets/img/conection.png'); ;
+  border-radius: 4px;
+  /* padding: 5%; */
+  margin-left: 130%;
+
+}
+.label{
+  size: 50%;
+  padding-left: 90%;
+}
+
+/* img:hover {
+  box-shadow: 0 0 2px 1px rgba(247, 245, 245, 0.5);
+} */
+
+.man{
+ margin-left: 10%;
+/* flood-opacity: 0.5; */ 
+}
